@@ -2,13 +2,14 @@ A modern, feature-rich blogging platform built with React on the frontend, Cloud
 
 Technologies:
 
-Frontend: React
-Backend: Cloudflare Workers
-Validation: Zod
-Language: TypeScript
-ORM: Prisma (with connection pooling)
-Database: PostgreSQL
-Authentication: JWT
+Frontend: React  <br />
+Backend: Cloudflare Workers <br />
+Validation: Zod <br />
+Language: TypeScript <br />
+ORM: Prisma (with connection pooling) <br />
+Database: PostgreSQL <br />
+Authentication: JWT <br />
+
 Getting Started:
 
 1.Prerequisites:
