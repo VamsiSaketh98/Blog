@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://blog.vamsisaketh59.workers.dev"
