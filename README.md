@@ -30,9 +30,9 @@ npm install  # or yarn install
 
 Features:
 
-Blog Post Management: Create, edit, and delete blog posts with a user-friendly interface.
-Content Validation: Ensure data integrity with Zod validation.
-Type Safety: Leverage TypeScript for code clarity and reduced errors.
-Efficient Data Access: Query and manage your blog data using Prisma ORM and connection pooling for optimal performance.
-Secure Authentication: Implement JWT-based authentication for secure user access. (Note: Implement proper user registration and login flows)
-Scalability: Cloudflare Workers can handle high traffic loads and provide a globally distributed edge network.
+Blog Post Management: Create, edit, and delete blog posts with a user-friendly interface. <br />
+Content Validation: Ensure data integrity with Zod validation.<br />
+Type Safety: Leverage TypeScript for code clarity and reduced errors.<br />
+Efficient Data Access: Query and manage your blog data using Prisma ORM and connection pooling for optimal performance.<br />
+Secure Authentication: Implement JWT-based authentication for secure user access. (Note: Implement proper user registration and login flows)<br />
+Scalability: Cloudflare Workers can handle high traffic loads and provide a globally distributed edge network.<br />
